@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zbc:home|Door43 (zbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zbc|d43-zbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zbc/archive/master.zip|d43-zbc.zip]]
+
+**Recent Changes**
+{{changes>ns = zbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zbc|Ethnologue data]]
+
